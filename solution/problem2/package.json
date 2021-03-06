@@ -1,0 +1,19 @@
+{
+  "name": "problem2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "author": "Simon Chapman",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.0",
+    "nyc": "^15.1.0"
+  },
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  }
+}
